@@ -1,6 +1,6 @@
 # cahtgpt变态版-连续对话
 猫娘版本的chatgpt-云崽-yunzai-bot插件修改自@群除我gay  
-| [cahtgpt变态版-连续对话](https://github.com/Henry1824/cahtgpt-.git) | [@Henry1824](作者主页地址) | v3 | 备注 |
+| [cahtgpt变态版-连续对话](https://github.com/Henry1824/cahtgpt-.git) | [@Henry1824](https://github.com/Henry1824) | v3 | 备注 |
 ## 注册
 1. 先注册 OpenAI 开发者帐户，然后申请使用 GPT-3 API 的访问权限。
 2. 你可以在 OpenAI 开发者控制台中申请使用 GPT-3 API，（选用双倍流量节点，香港等节点不可以，用gmail邮箱注册，对国内用户不开放）
