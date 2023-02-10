@@ -7,7 +7,7 @@
 *******************************************************
 [控制台地址](https://beta.openai.com/signup/developer)
 *******************************************************
-## 配置
+## 配置(科学上网，不然看不到配置图片）
 1. 本js下载下来，放到Yunzai-Bot\plugins\example\下
 2. 注册开发者帐户并申请后，你就可以在 OpenAI **开发者控制台**中获取你的 *API 密钥*。
 ![](https://github.com/Henry1824/chatgpt--/blob/master/image/1.png)
