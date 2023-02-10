@@ -1,4 +1,4 @@
-# cahtgpt变态版-连续对话
+# chatgpt变态版-连续对话
 猫娘版本的chatgpt-云崽-yunzai-bot插件修改自@群除我gay  
 ## 注册
 1. 先注册 OpenAI 开发者帐户，然后申请使用 GPT-3 API 的访问权限。
