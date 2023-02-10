@@ -10,11 +10,11 @@
 ## 配置
 1. 本js下载下来，放到Yunzai-Bot\plugins\example\下
 2. 注册开发者帐户并申请后，你就可以在 OpenAI **开发者控制台**中获取你的 *API 密钥*。
-![](https://github.com/Henry1824/cahtgpt-/blob/master/image/1.png)
-![](https://github.com/Henry1824/cahtgpt-/blob/master/image/2.png)
-![](https://github.com/Henry1824/cahtgpt-/blob/master/image/3.png)
+![](https://github.com/Henry1824/chatgpt--/blob/master/image/1.png)
+![](https://github.com/Henry1824/chatgpt--/blob/master/image/2.png)
+![](https://github.com/Henry1824/chatgpt--/blob/master/image/3.png)
 3. 你可以使用这个密钥在你的应用程序中调用 GPT-3 API。将密匙填写在`token:`中
-![](https://github.com/Henry1824/cahtgpt-/blob/master/image/4.png)
+![](https://github.com/Henry1824/chatgpt--/blob/master/image/4.png)
 ## 使用
 启动bot 发送指令如下：
 |  指令   | 功能  |
